@@ -1,4 +1,4 @@
-Intro to CSS 3D transforms Intro to CSS 3D transforms
+Intro to CSS 3D transforms
 ==========================
 
 By [David DeSandro](http://desandro.com)
